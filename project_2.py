@@ -9,7 +9,7 @@ import seaborn as sns
 
 ## Load dataset
 
-df = pd.read_csv('Bengaluru_House_Dataset.csv')
+df = pd.read_csv('House_Dataset.csv')
 df.head()
 
 df.shape
